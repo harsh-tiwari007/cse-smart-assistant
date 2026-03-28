@@ -101,5 +101,7 @@ Harsh Tiwari
 
 ---screenshots
 
-<img width="1919" height="903" alt="Screenshot 2026-03-28 202712" src="https://github.com/user-attachments/assets/7b171a8b-03ba-45e4-b929-abab525c32ae" />
+<img width="1919" height="954" alt="Screenshot 2026-03-28 202115" src="https://github.com/user-attachments/assets/aa065a6a-e9d2-4a48-a5bb-0375281e03a3" />
+<img width="1919" height="903" alt="Screenshot 2026-03-28 202712" src="https://github.com/user-attachments/assets/22991abc-60c7-433f-b24b-87fb334b0622" />
+
 
