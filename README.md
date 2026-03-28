@@ -100,5 +100,6 @@ Voice assistant integration
 Harsh Tiwari
 
 ---screenshots
-<img width="1919" height="903" alt="Screenshot 2026-03-28 202712" src="https://github.com/user-attachments/assets/15d0d938-8738-498c-b704-2b06fec0afa8" />
-<img width="1919" height="954" alt="Screenshot 2026-03-28 202115" src="https://github.com/user-attachments/assets/6ddaca78-626e-4a84-a775-837bb664814e" />
+
+<img width="1919" height="903" alt="Screenshot 2026-03-28 202712" src="https://github.com/user-attachments/assets/7b171a8b-03ba-45e4-b929-abab525c32ae" />
+
