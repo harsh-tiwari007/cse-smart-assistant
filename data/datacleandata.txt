@@ -1,0 +1,67 @@
+University Info
+Name: Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur
+Established: 1966
+Type: State Government University
+NAAC Grade: A++
+Campus Area: ~264 acres
+Affiliated Colleges: ~700
+📅 Academic Calendar (Even Semester 2025–26)
+
+(From your PDF)
+
+Registration Start: 5 Jan 2026
+Classes Start: 6 Jan 2026
+Quiz Week 1: 5–10 Feb 2026
+Mid Sem Exams: 23–28 Feb 2026
+Mid Sem Break: 2–5 March 2026
+Quiz Week 2: 6–11 April 2026
+Last Day of Classes: 29 April 2026
+End Sem Exams: 2–15 May 2026
+Result Declaration: 30 May 2026
+Summer Break: 18 May – 17 July 2026
+🎓 Courses Offered (IMPORTANT – USE THIS)
+
+(From admission brochure)
+
+💻 Engineering (CSE Related)
+B.Tech Computer Science and Engineering
+B.Tech CSE (Artificial Intelligence)
+M.Tech CSE
+BCA
+MCA
+⚙️ Other Engineering
+Mechanical Engineering
+Chemical Engineering
+Electronics & Communication
+Materials & Metallurgical
+🎓 Other Courses
+BBA, MBA
+BSc, MSc
+BA, MA
+B.Des
+Diploma courses
+📘 CSE Core Subjects (IMPORTANT FOR BOT)
+
+(From syllabus PDF)
+
+2nd Year
+Data Structures
+Digital Electronics
+3rd Year
+DBMS
+Operating Systems
+Computer Networks
+Software Engineering
+Theory of Computation
+4th Year
+Computer Graphics
+Industrial Management
+Capstone Project
+📜 Admission Rules (SHORT CLEAN)
+Admission via university portal
+B.Tech admission via JEE Mains
+UG → 12th pass required
+PG → Graduation required
+Reservation as per UP Govt rules
+Max 3 programs selectable
+Document verification mandatory

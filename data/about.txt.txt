@@ -1,0 +1,4 @@
+The Department of Computer Science and Engineering offers undergraduate programs.
+It focuses on software development, data structures, algorithms, and artificial intelligence.
+
+
